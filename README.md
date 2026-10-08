@@ -5,4 +5,4 @@
 
    - More: [gabrielcini.com](https://gabrielcini.com)
 
-   Open to remote front-end roles in Europe.
+   Open to remote Full-stack (frontend leaning) roles in Europe.
